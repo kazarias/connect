@@ -33,7 +33,7 @@ a{
   background-size:cover;
   background-repeat:no-repeat;
   background-attachment: fixed;
-  background-image:url('img/splash_surf.png');
+  background-image:url('img/dark_concert.jpeg');
   color: gold;
   text-align: center;
   height:100vh;
@@ -50,8 +50,7 @@ a{
 }
 
 .nav li{
-  font-size: 1.5em;
-  font-weight: bolder;
+  font-size: 1.4em;
   padding: 0px 25px 0px 25px;
   display: inline-block;
 }
