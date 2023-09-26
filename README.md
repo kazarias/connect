@@ -1,3 +1,3 @@
 # connectquiz
 CSS Grid Quiz
-https://wyssal.github.io/connect/
+https://kazarias.github.io/connect/
